@@ -2,7 +2,7 @@
   "readmeFilename": "README.md",
   "name": "trim-keys",
   "description": "Keep or remove certain keys from an object.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Bob Lauer <rlauer@gmail.com>",
   "main": "./src/trim-keys.js",
   "dependencies": {},
@@ -16,8 +16,7 @@
   },
   "repository": "https://github.com/boblauer/trim-keys",
   "keywords": [
-    "date",
-    "timezone"
+    "object", "keys", "trim", "projection"
   ],
   "license": "MIT"
 }
