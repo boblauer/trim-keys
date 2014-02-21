@@ -8,8 +8,8 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-mocha": "~0.4.7",
-    "load-grunt-tasks": "~0.2.0"
+    "grunt-mocha": "~0.4.10",
+    "load-grunt-tasks": "~0.3.0"
   },
   "scripts": {
     "test": "grunt"
