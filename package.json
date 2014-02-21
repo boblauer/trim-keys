@@ -1,0 +1,23 @@
+{
+  "readmeFilename": "README.md",
+  "name": "trim-keys",
+  "description": "Keep or remove certain keys from an object.",
+  "version": "0.0.1",
+  "author": "Bob Lauer <rlauer@gmail.com>",
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-mocha": "~0.4.7",
+    "load-grunt-tasks": "~0.2.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": "https://github.com/boblauer/trim-keys",
+  "keywords": [
+    "date",
+    "timezone"
+  ],
+  "license": "MIT"
+}
