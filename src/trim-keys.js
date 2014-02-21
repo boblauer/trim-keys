@@ -6,7 +6,7 @@
   "use strict";
 
   function trimKeys(obj, keyMap) {
-    var keep = getKeyMapValue(keyMap) !== 0;
+    var keep = Boolean(getKeyMapValue(keyMap));
     return keep ? keepKeys(obj, keyMap) : removeKeys(obj, keyMap);
   }
 
