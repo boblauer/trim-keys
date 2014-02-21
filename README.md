@@ -7,7 +7,7 @@ Keep or remove certain keys from an object.
 `npm install trim-keys`
 
 ## Environment Support ##
-TimeZoneDate has been tested in Node, IE9+, Chrome, Firefox, and Opera.
+trim-keys has been tested in Node, IE9+, Chrome, Firefox, and Opera.
 
 ## Usage ##
 ```javascript
