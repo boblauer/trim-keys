@@ -4,7 +4,7 @@
   "description": "Keep or remove certain keys from an object.",
   "version": "0.0.1",
   "author": "Bob Lauer <rlauer@gmail.com>",
-  "main": "./index.js",
+  "main": "./src/trim-keys.js",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.2",
