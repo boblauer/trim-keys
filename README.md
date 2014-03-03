@@ -3,6 +3,8 @@ trim-keys
 
 Keep or remove certain keys from an object.
 
+[![Build Status](https://travis-ci.org/boblauer/trim-keys.png?branch=master)](https://travis-ci.org/boblauer/trim-keys)
+
 ## Installation ##
 `npm install trim-keys`
 
